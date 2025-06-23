@@ -1,0 +1,8 @@
+{
+  "/weatherforecast": {
+    "target": "http://localhost:50200",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}

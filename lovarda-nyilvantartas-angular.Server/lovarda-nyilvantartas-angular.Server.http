@@ -1,0 +1,6 @@
+@lovarda_nyilvantartas_angular.Server_HostAddress = http://localhost:5036
+
+GET {{lovarda_nyilvantartas_angular.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

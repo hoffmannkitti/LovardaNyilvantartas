@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:50201",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\Kitti\\source\\repos\\lovarda-nyilvantartas-angular\\lovarda-nyilvantartas-angular.Server\\..\\lovarda-nyilvantartas-angular.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
