@@ -1,1 +1,1 @@
-# LovardaNyilvantartas
+# LovardaNyilvantartas .NET és Angularral
